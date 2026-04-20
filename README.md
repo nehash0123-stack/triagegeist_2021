@@ -15,7 +15,7 @@ This project builds a hybrid ML + NLP pipeline to predict ESI triage acuity leve
 
 | Metric | Value |
 |--------|-------|
-| Macro F1 | 0.384 |
+| Macro F1 | 0.394 |
 | Adjacent Accuracy (±1 ESI) | 91.8% |
 | Critical Sensitivity (ESI 1–2) | 55.1% |
 | Overall Undertriage Rate | 8.1% |
